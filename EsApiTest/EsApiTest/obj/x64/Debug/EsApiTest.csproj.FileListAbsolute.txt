@@ -1,0 +1,10 @@
+C:\work\client\EsApiTest\EsApiTest\bin\x64\Debug\EsApiTest.exe.config
+C:\work\client\EsApiTest\EsApiTest\bin\x64\Debug\EsApiTest.exe
+C:\work\client\EsApiTest\EsApiTest\bin\x64\Debug\EsApiTest.pdb
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.csprojAssemblyReference.cache
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.Form1.resources
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.Properties.Resources.resources
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.csproj.GenerateResource.cache
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.csproj.CoreCompileInputs.cache
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.exe
+C:\work\client\EsApiTest\EsApiTest\obj\x64\Debug\EsApiTest.pdb
